@@ -79,6 +79,10 @@
 
 ## 部署
 
+### Railway 部署
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Q9R9Rg?referralCode=5JJc9I)
+
 ### Zeabur 部署
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/6HEGIZ?referralCode=LanQian528)
