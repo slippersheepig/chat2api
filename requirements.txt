@@ -1,4 +1,4 @@
-fastapi==0.111.1
+fastapi==0.112.0
 curl_cffi==0.7.1
 uvicorn==0.30.4
 tiktoken==0.7.0
